@@ -1,0 +1,1599 @@
+Start.....20181101225010
+Start.....6....
+Reading attendees file......C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\attendees\PerAttnConsolidated.txt
+Creating file for Codereader......C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\output\codereadr\20181101225010.txt
+Creating file for Raffle......C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\output\codereadr\20181101225010.txt
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......100
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Visal Hemant
+1000...100..Visal Hemant..Visal Hemant..hemant.visal@gmail.com
+Status ---------- user:1       attendee:1
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Visal Rashmi
+1001...100..Visal Hemant..Visal Rashmi..hemant.visal@gmail.com
+Status ---------- user:1       attendee:2
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Visal Isha
+1002...100..Visal Hemant..Visal Isha..hemant.visal@gmail.com
+Status ---------- user:1       attendee:3
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Visal Asmi
+1003...100..Visal Hemant..Visal Asmi..hemant.visal@gmail.com
+Status ---------- user:1       attendee:4
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....hemant.visal@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......101
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Saanvi 
+1010...101..Saanvi ..Saanvi ..amitaskulkarni@gmail.com
+Status ---------- user:2       attendee:5
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Amita Deshpande 
+1011...101..Saanvi ..Amita Deshpande ..amitaskulkarni@gmail.com
+Status ---------- user:2       attendee:6
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Vishal Deshpande 
+1012...101..Saanvi ..Vishal Deshpande ..amitaskulkarni@gmail.com
+Status ---------- user:2       attendee:7
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....amitaskulkarni@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......102
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Ridhi Mahajan
+1020...102..Ridhi Mahajan..Ridhi Mahajan..rajivkumarmahajan@gmal.con
+Status ---------- user:3       attendee:8
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rajivkumarmahajan@gmal.con
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......103
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Rajiv mahajan
+1030...103..Rajiv mahajan..Rajiv mahajan..rajivkumarmahajan@gmail.com
+Status ---------- user:4       attendee:9
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Savita Mahajan
+1031...103..Rajiv mahajan..Savita Mahajan..rajivkumarmahajan@gmail.com
+Status ---------- user:4       attendee:10
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rajivkumarmahajan@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......104
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Khwaish jain
+1040...104..Khwaish jain..Khwaish jain..khwaishsrimal@gmail.com
+Status ---------- user:5       attendee:11
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Suhani jain
+1041...104..Khwaish jain..Suhani jain..khwaishsrimal@gmail.com
+Status ---------- user:5       attendee:12
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Vishal jain
+1042...104..Khwaish jain..Vishal jain..khwaishsrimal@gmail.com
+Status ---------- user:5       attendee:13
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Nidhi jain
+1043...104..Khwaish jain..Nidhi jain..khwaishsrimal@gmail.com
+Status ---------- user:5       attendee:14
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....khwaishsrimal@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......105
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Mukkundi Pramod
+1050...105..Mukkundi Pramod..Mukkundi Pramod..shamadeshpande@gmail.com
+Status ---------- user:6       attendee:15
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Mukkundi Sharmila
+1051...105..Mukkundi Pramod..Mukkundi Sharmila..shamadeshpande@gmail.com
+Status ---------- user:6       attendee:16
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Mukkundi Priya
+1052...105..Mukkundi Pramod..Mukkundi Priya..shamadeshpande@gmail.com
+Status ---------- user:6       attendee:17
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Mukkundi Sriya
+1053...105..Mukkundi Pramod..Mukkundi Sriya..shamadeshpande@gmail.com
+Status ---------- user:6       attendee:18
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....shamadeshpande@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......106
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Lekshmi Shailesh
+1060...106..Lekshmi Shailesh..Lekshmi Shailesh..lekshmi.shailesh@gmail.com
+Status ---------- user:7       attendee:19
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....lekshmi.shailesh@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......107
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Parvathy Abhilash
+1070...107..Parvathy Abhilash..Parvathy Abhilash..paru25@gmail.com
+Status ---------- user:8       attendee:20
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sharan Abhilash
+1071...107..Parvathy Abhilash..Sharan Abhilash..paru25@gmail.com
+Status ---------- user:8       attendee:21
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....paru25@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......108
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sanika Naik
+1080...108..Sanika Naik..Sanika Naik..pradnya.khadilkar@gmail.com
+Status ---------- user:9       attendee:22
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Pradnya Naik
+1081...108..Sanika Naik..Pradnya Naik..pradnya.khadilkar@gmail.com
+Status ---------- user:9       attendee:23
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Mandar Naik
+1082...108..Sanika Naik..Mandar Naik..pradnya.khadilkar@gmail.com
+Status ---------- user:9       attendee:24
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....pradnya.khadilkar@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......109
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sashmita Panda
+1090...109..Sashmita Panda..Sashmita Panda..sashmita.p@gmail.com
+Status ---------- user:10       attendee:25
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sashmita.p@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......110
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Amit Kumar Sarangi 
+1100...110..Amit Kumar Sarangi ..Amit Kumar Sarangi ..amitkumarsarangi@gmail.com
+Status ---------- user:11       attendee:26
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....amitkumarsarangi@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......111
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Jogani Tanisha 
+1110...111..Jogani Tanisha ..Jogani Tanisha ..rachu19802050@yahoo.co.uk
+Status ---------- user:12       attendee:27
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Jogani Rachana
+1111...111..Jogani Tanisha ..Jogani Rachana..rachu19802050@yahoo.co.uk
+Status ---------- user:12       attendee:28
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Jogani Miten
+1112...111..Jogani Tanisha ..Jogani Miten..rachu19802050@yahoo.co.uk
+Status ---------- user:12       attendee:29
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rachu19802050@yahoo.co.uk
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......112
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Pranavi Sri  Thalluri
+1120...112..Pranavi Sri  Thalluri..Pranavi Sri  Thalluri..sreerangashyam@gmail.com
+Status ---------- user:13       attendee:30
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Shyam Thalluri
+1121...112..Pranavi Sri  Thalluri..Shyam Thalluri..sreerangashyam@gmail.com
+Status ---------- user:13       attendee:31
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Renu Thalluri
+1122...112..Pranavi Sri  Thalluri..Renu Thalluri..sreerangashyam@gmail.com
+Status ---------- user:13       attendee:32
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sreerangashyam@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......113
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Gundecha Palak
+1130...113..Gundecha Palak..Gundecha Palak..gundechapreeti@gmail.com
+Status ---------- user:14       attendee:33
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Gundecha Parth
+1131...113..Gundecha Palak..Gundecha Parth..gundechapreeti@gmail.com
+Status ---------- user:14       attendee:34
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Gundecha Preeti
+1132...113..Gundecha Palak..Gundecha Preeti..gundechapreeti@gmail.com
+Status ---------- user:14       attendee:35
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Gundecha Amit
+1133...113..Gundecha Palak..Gundecha Amit..gundechapreeti@gmail.com
+Status ---------- user:14       attendee:36
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....gundechapreeti@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......114
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Menon Sahasra
+1140...114..Menon Sahasra..Menon Sahasra..sandhya.jan@gmail.com
+Status ---------- user:15       attendee:37
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Jan Sandhya 
+1141...114..Menon Sahasra..Jan Sandhya ..sandhya.jan@gmail.com
+Status ---------- user:15       attendee:38
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sandhya.jan@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......115
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Singh prisha
+1150...115..Singh prisha..Singh prisha..priyanka.bapna.singh@gmail.com
+Status ---------- user:16       attendee:39
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Singh priyanka
+1151...115..Singh prisha..Singh priyanka..priyanka.bapna.singh@gmail.com
+Status ---------- user:16       attendee:40
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....priyanka.bapna.singh@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......116
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Paul Mrinmoiye 
+1160...116..Paul Mrinmoiye ..Paul Mrinmoiye ..polruma@gmail.com
+Status ---------- user:17       attendee:41
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Paul Shiddharto
+1161...116..Paul Mrinmoiye ..Paul Shiddharto..polruma@gmail.com
+Status ---------- user:17       attendee:42
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Paul Ruma Rani 
+1162...116..Paul Mrinmoiye ..Paul Ruma Rani ..polruma@gmail.com
+Status ---------- user:17       attendee:43
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....polruma@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......117
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Kailash Malkani 
+1170...117..Kailash Malkani ..Kailash Malkani ..malkani_ca@yahoo.co.in
+Status ---------- user:18       attendee:44
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Kaushalya K Malkani 
+1171...117..Kailash Malkani ..Kaushalya K Malkani ..malkani_ca@yahoo.co.in
+Status ---------- user:18       attendee:45
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....malkani_ca@yahoo.co.in
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......118
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......SRIYA JAYESH
+1180...118..SRIYA JAYESH..SRIYA JAYESH..dhanyajayesh01@gmail.com
+Status ---------- user:19       attendee:46
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....dhanyajayesh01@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......119
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Navya Malkani 
+1190...119..Navya Malkani ..Navya Malkani ..malkani_ca@yahoo.co.in
+Status ---------- user:20       attendee:47
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....malkani_ca@yahoo.co.in
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......120
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......SHIKHA.P.PILLAI
+1200...120..SHIKHA.P.PILLAI..SHIKHA.P.PILLAI..sangu.prasanth@gmail.com
+Status ---------- user:21       attendee:48
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sangu.prasanth@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......121
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Deepti Patil
+1210...121..Deepti Patil..Deepti Patil..deepti.patil9@gmail.com
+Status ---------- user:22       attendee:49
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....deepti.patil9@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......122
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Nitin Patil
+1220...122..Nitin Patil..Nitin Patil..ndpatil9@gmail.com
+Status ---------- user:23       attendee:50
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Vaidehi Patil
+1221...122..Nitin Patil..Vaidehi Patil..ndpatil9@gmail.com
+Status ---------- user:23       attendee:51
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....ndpatil9@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......123
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Deshpande Priya
+1230...123..Deshpande Priya..Deshpande Priya..bhalerao.deshpande@gmail.com
+Status ---------- user:24       attendee:52
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Deshpande Laasya
+1231...123..Deshpande Priya..Deshpande Laasya..bhalerao.deshpande@gmail.com
+Status ---------- user:24       attendee:53
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Deshpande Abhishek
+1232...123..Deshpande Priya..Deshpande Abhishek..bhalerao.deshpande@gmail.com
+Status ---------- user:24       attendee:54
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....bhalerao.deshpande@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......124
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......DHANYA JAYESH
+1240...124..DHANYA JAYESH..DHANYA JAYESH..dhanyajayesh01@gmail.com
+Status ---------- user:25       attendee:55
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....dhanyajayesh01@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......125
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Pooja Abhilash
+1250...125..Pooja Abhilash..Pooja Abhilash..paru25@gmail.com
+Status ---------- user:26       attendee:56
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Abhilash Radhakrishnan
+1251...125..Pooja Abhilash..Abhilash Radhakrishnan..paru25@gmail.com
+Status ---------- user:26       attendee:57
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....paru25@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......126
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Nigi Tiby
+1260...126..Nigi Tiby..Nigi Tiby..nigigibson@gmail.com
+Status ---------- user:27       attendee:58
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....nigigibson@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......127
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Samanvita kanchinadam
+1270...127..Samanvita kanchinadam..Samanvita kanchinadam..srilu.sammu@gmail.com
+Status ---------- user:28       attendee:59
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Srilakshmi kanchinadam
+1271...127..Samanvita kanchinadam..Srilakshmi kanchinadam..srilu.sammu@gmail.com
+Status ---------- user:28       attendee:60
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....srilu.sammu@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......128
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sangeethaprasanth 
+1280...128..Sangeethaprasanth ..Sangeethaprasanth ..sangu.prasanth@gmail.com
+Status ---------- user:29       attendee:61
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sangu.prasanth@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......129
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Venkata ramana kanchinadam
+1290...129..Venkata ramana kanchinadam..Venkata ramana kanchinadam..srilu.sammu@gmail.com
+Status ---------- user:30       attendee:62
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sauhitya kanchinadam
+1291...129..Venkata ramana kanchinadam..Sauhitya kanchinadam..srilu.sammu@gmail.com
+Status ---------- user:30       attendee:63
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....srilu.sammu@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......130
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sripujitha polisetti 
+1300...130..Sripujitha polisetti ..Sripujitha polisetti ..kalpanapoojitha@gmail.com
+Status ---------- user:31       attendee:64
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....kalpanapoojitha@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......131
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Jaisakthi chandrakumar
+1310...131..Jaisakthi chandrakumar..Jaisakthi chandrakumar..jaiambichan@gmail.com
+Status ---------- user:32       attendee:65
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....jaiambichan@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......132
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Kalpana Polisetti 
+1320...132..Kalpana Polisetti ..Kalpana Polisetti ..kalpanapoojitha@gmail.com
+Status ---------- user:33       attendee:66
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....kalpanapoojitha@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......133
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Nayak Rajshree
+1330...133..Nayak Rajshree..Nayak Rajshree..rajshreelinu@gmail.com
+Status ---------- user:34       attendee:67
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rajshreelinu@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......134
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Chandran Chaithanya
+1340...134..Chandran Chaithanya..Chandran Chaithanya..chaithanyamenon@gmail.com
+Status ---------- user:35       attendee:68
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....chaithanyamenon@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......135
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......MACIN JOE
+1350...135..MACIN JOE..MACIN JOE..macinannphilip@gmail.com
+Status ---------- user:36       attendee:69
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......SANA MARY JOE
+1351...135..MACIN JOE..SANA MARY JOE..macinannphilip@gmail.com
+Status ---------- user:36       attendee:70
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....macinannphilip@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......136
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......ADITI
+1360...136..ADITI..ADITI..sapanapaudel@gmail.com
+Status ---------- user:37       attendee:71
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sapanapaudel@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......137
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......SIDDHI
+1370...137..SIDDHI..SIDDHI..priya.shelar@gmail.com
+Status ---------- user:38       attendee:72
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....priya.shelar@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......138
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......JAYAN ASWATHY 
+1380...138..JAYAN ASWATHY ..JAYAN ASWATHY ..aswathyjayan9@gmail.com
+Status ---------- user:39       attendee:73
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....aswathyjayan9@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......139
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sameeha
+1390...139..Sameeha..Sameeha..snabina@gmail.com
+Status ---------- user:40       attendee:74
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Samriddhi
+1391...139..Sameeha..Samriddhi..snabina@gmail.com
+Status ---------- user:40       attendee:75
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Nabina
+1392...139..Sameeha..Nabina..snabina@gmail.com
+Status ---------- user:40       attendee:76
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sugam
+1393...139..Sameeha..Sugam..snabina@gmail.com
+Status ---------- user:40       attendee:77
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....snabina@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......140
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Ghosh Ranjan
+1400...140..Ghosh Ranjan..Ghosh Ranjan..ronghosh77@gmail.com
+Status ---------- user:41       attendee:78
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Ghosh Amrita
+1401...140..Ghosh Ranjan..Ghosh Amrita..ronghosh77@gmail.com
+Status ---------- user:41       attendee:79
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Ghosh Anannya
+1402...140..Ghosh Ranjan..Ghosh Anannya..ronghosh77@gmail.com
+Status ---------- user:41       attendee:80
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Ghosh Arjun
+1403...140..Ghosh Ranjan..Ghosh Arjun..ronghosh77@gmail.com
+Status ---------- user:41       attendee:81
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....ronghosh77@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......141
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Chaudhary Anindita
+1410...141..Chaudhary Anindita..Chaudhary Anindita..ashucdri@gmail.com
+Status ---------- user:42       attendee:82
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Verma Alka
+1411...141..Chaudhary Anindita..Verma Alka..ashucdri@gmail.com
+Status ---------- user:42       attendee:83
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Kumar Ashutosh
+1412...141..Chaudhary Anindita..Kumar Ashutosh..ashucdri@gmail.com
+Status ---------- user:42       attendee:84
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....ashucdri@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......142
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Nayak Avantika
+1420...142..Nayak Avantika..Nayak Avantika..rajshreelinu@gmail.com
+Status ---------- user:43       attendee:85
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rajshreelinu@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......143
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Ragesh Aditi
+1430...143..Ragesh Aditi..Ragesh Aditi..nimithab@gmail.com
+Status ---------- user:44       attendee:86
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....nimithab@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......144
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Dwivedi Anushri
+1440...144..Dwivedi Anushri..Dwivedi Anushri..pindwi@gmail.com
+Status ---------- user:45       attendee:87
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Dwivedi Arindam
+1441...144..Dwivedi Anushri..Dwivedi Arindam..pindwi@gmail.com
+Status ---------- user:45       attendee:88
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Dwivedi Satakshi 
+1442...144..Dwivedi Anushri..Dwivedi Satakshi ..pindwi@gmail.com
+Status ---------- user:45       attendee:89
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....pindwi@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......145
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Janavika
+1450...145..Janavika..Janavika..laks_sanj@yahoo.co.in
+Status ---------- user:46       attendee:90
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....laks_sanj@yahoo.co.in
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......146
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Dubey Kalpnath
+1460...146..Dubey Kalpnath..Dubey Kalpnath..pindwi@gmail.com
+Status ---------- user:47       attendee:91
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Dubey Mandvi 
+1461...146..Dubey Kalpnath..Dubey Mandvi ..pindwi@gmail.com
+Status ---------- user:47       attendee:92
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....pindwi@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......147
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Lakshmi
+1470...147..Lakshmi..Lakshmi..laks_sanj@yahoo.co.in
+Status ---------- user:48       attendee:93
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....laks_sanj@yahoo.co.in
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......148
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Ayaan Ibrahim
+1480...148..Ayaan Ibrahim..Ayaan Ibrahim..aboobacker@gmail.com
+Status ---------- user:49       attendee:94
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Dhiya Aboobacker 
+1481...148..Ayaan Ibrahim..Dhiya Aboobacker ..aboobacker@gmail.com
+Status ---------- user:49       attendee:95
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Raseena Aboobacker 
+1482...148..Ayaan Ibrahim..Raseena Aboobacker ..aboobacker@gmail.com
+Status ---------- user:49       attendee:96
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Babu Aboobacker 
+1483...148..Ayaan Ibrahim..Babu Aboobacker ..aboobacker@gmail.com
+Status ---------- user:49       attendee:97
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....aboobacker@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......149
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......MEGHNA SANTHOSH
+1490...149..MEGHNA SANTHOSH..MEGHNA SANTHOSH..santhosh.sreelakshmi@gmail.com
+Status ---------- user:50       attendee:98
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......MANJU SANTHOSH
+1491...149..MEGHNA SANTHOSH..MANJU SANTHOSH..santhosh.sreelakshmi@gmail.com
+Status ---------- user:50       attendee:99
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....santhosh.sreelakshmi@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......150
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......PRIYA SHELAR
+1500...150..PRIYA SHELAR..PRIYA SHELAR..priya.shelar@gmail.com
+Status ---------- user:51       attendee:100
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....priya.shelar@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......151
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Ghatole Arya
+1510...151..Ghatole Arya..Ghatole Arya..ajay.ghatole@gmail.com
+Status ---------- user:52       attendee:101
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Adhya Ghatole 
+1511...151..Ghatole Arya..Adhya Ghatole ..ajay.ghatole@gmail.com
+Status ---------- user:52       attendee:102
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......GHATOLE ANURADHA
+1512...151..Ghatole Arya..GHATOLE ANURADHA..ajay.ghatole@gmail.com
+Status ---------- user:52       attendee:103
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....ajay.ghatole@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......152
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Geethika Laneesh
+1520...152..Geethika Laneesh..Geethika Laneesh..nanisha_a@yahoo.co.in
+Status ---------- user:53       attendee:104
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....nanisha_a@yahoo.co.in
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......153
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......KIRAN PRAVEENA
+1530...153..KIRAN PRAVEENA..KIRAN PRAVEENA..kirrugk@gmail.com
+Status ---------- user:54       attendee:105
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....kirrugk@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......154
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Amrita Jayaprakash 
+1540...154..Amrita Jayaprakash ..Amrita Jayaprakash ..kaniyajayaprakash@gmail.com
+Status ---------- user:55       attendee:106
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Arya Jayaprakash 
+1541...154..Amrita Jayaprakash ..Arya Jayaprakash ..kaniyajayaprakash@gmail.com
+Status ---------- user:55       attendee:107
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Kaniya Jayaprakash  
+1542...154..Amrita Jayaprakash ..Kaniya Jayaprakash  ..kaniyajayaprakash@gmail.com
+Status ---------- user:55       attendee:108
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....kaniyajayaprakash@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......155
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Snigdha Tunuguntla (performer)
+1550...155..Snigdha Tunuguntla (performer)..Snigdha Tunuguntla (performer)..sireeshatunuguntla@yahoo.com
+Status ---------- user:56       attendee:109
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sireesha
+1551...155..Snigdha Tunuguntla (performer)..Sireesha..sireeshatunuguntla@yahoo.com
+Status ---------- user:56       attendee:110
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sireeshatunuguntla@yahoo.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......156
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......MiniAju
+1560...156..MiniAju..MiniAju..miniaju@gmail.com
+Status ---------- user:57       attendee:111
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....miniaju@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......157
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Spoorthi Pyarilal
+1570...157..Spoorthi Pyarilal..Spoorthi Pyarilal..mamatha.pyari@gmail.com
+Status ---------- user:58       attendee:112
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Mamatha Pyarilal
+1571...157..Spoorthi Pyarilal..Mamatha Pyarilal..mamatha.pyari@gmail.com
+Status ---------- user:58       attendee:113
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....mamatha.pyari@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......158
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Devika Rajeev 
+1580...158..Devika Rajeev ..Devika Rajeev ..tgvini1982@gmail.com
+Status ---------- user:59       attendee:114
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....tgvini1982@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......159
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Keertana Pusapati
+1590...159..Keertana Pusapati..Keertana Pusapati..sudhadeepika@gmail.com
+Status ---------- user:60       attendee:115
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sudhadeepika@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......160
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Vinitha Rajeev 
+1600...160..Vinitha Rajeev ..Vinitha Rajeev ..tgvini1982@gmail.com
+Status ---------- user:61       attendee:116
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....tgvini1982@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......161
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Pusapati Deepika
+1610...161..Pusapati Deepika..Pusapati Deepika..sudhadeepika@gmail.com
+Status ---------- user:62       attendee:117
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sudhadeepika@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......162
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sanal Sharanyaka
+1620...162..Sanal Sharanyaka..Sanal Sharanyaka..lekhasanal@gmail.com
+Status ---------- user:63       attendee:118
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sanal
+1621...162..Sanal Sharanyaka..Sanal..lekhasanal@gmail.com
+Status ---------- user:63       attendee:119
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sanal Satvik
+1622...162..Sanal Sharanyaka..Sanal Satvik..lekhasanal@gmail.com
+Status ---------- user:63       attendee:120
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sanal Lekha
+1623...162..Sanal Sharanyaka..Sanal Lekha..lekhasanal@gmail.com
+Status ---------- user:63       attendee:121
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....lekhasanal@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......163
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......GURRAM KIRANMAIYE 
+1630...163..GURRAM KIRANMAIYE ..GURRAM KIRANMAIYE ..kirrugk@gmail.com
+Status ---------- user:64       attendee:122
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....kirrugk@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......164
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Vibhor Singla
+1640...164..Vibhor Singla..Vibhor Singla..vibhor.singla@gmail.com
+Status ---------- user:65       attendee:123
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Shweta Singla
+1641...164..Vibhor Singla..Shweta Singla..vibhor.singla@gmail.com
+Status ---------- user:65       attendee:124
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Suhani Singla
+1642...164..Vibhor Singla..Suhani Singla..vibhor.singla@gmail.com
+Status ---------- user:65       attendee:125
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....vibhor.singla@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......165
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Attarde Nayana
+1650...165..Attarde Nayana..Attarde Nayana..attardenayana@gmail.com
+Status ---------- user:66       attendee:126
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Attarde Sunil
+1651...165..Attarde Nayana..Attarde Sunil..attardenayana@gmail.com
+Status ---------- user:66       attendee:127
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Attarde Stuti
+1652...165..Attarde Nayana..Attarde Stuti..attardenayana@gmail.com
+Status ---------- user:66       attendee:128
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Attarde Krisha
+1653...165..Attarde Nayana..Attarde Krisha..attardenayana@gmail.com
+Status ---------- user:66       attendee:129
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateChild.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....attardenayana@gmail.com
+
+Start user --------------------------------------------------------------------------------------
+Reading user data ......166
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Jain
+1660...166..Jain, Sonali..Jain..rajeshdjain@gmail.com
+Status ---------- user:67       attendee:130
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Sonali
+1661...166..Jain, Sonali.. Sonali..rajeshdjain@gmail.com
+Status ---------- user:67       attendee:131
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Jain
+1662...166..Jain, Sonali..Jain..rajeshdjain@gmail.com
+Status ---------- user:67       attendee:132
+creatin qr code.....
+Readng image template.....C:\Users\praba\Desktop\DigitalTicket\Ticket\DandiyaTicket\input\image\\tickettemplateAdult.png
+Writing Adult/child on ticket
+Writing name on ticket
+Writing qrcode on ticket
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Chavi
+1663...166..Jain, Sonali.. Chavi..rajeshdjain@gmail.com
+Status ---------- user:67       attendee:133
+Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 3
+	at ticket.readfileDiwali(ticket.java:246)
+	at ticket.main(ticket.java:64)

@@ -1,0 +1,17 @@
+Swami	Prabhakaran	Prabhakaran Swami, Malar Prabhakar, Rithwik Prabhakar,	praba_rs@yahoo.com	|* 3 REG-Adult JPY 2300.00 *||* 0 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Dhakshinamoorthy	Natarajan	Natarajan Dhakshinamoorthy, Jayanthi Natarajan, Manav Natarajan,	nataraj_dhakshina@yahoo.com	|* 3 REG-Adult JPY 2300.00 *||* 0 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Desai	Naren	Naren Desai, Anupama Desai, Bhairavi Desai, Ved Desai,	desainaren@gmail.com	|* 3 REG-Adult JPY 2300.00 *||* 1 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Patil	Smithin	Smithin Patil, Kavita Patil, Dhvani Patil,	smithin_patil@yahoo.com	|* 3 REG-Adult JPY 2300.00 *||* 0 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+WADKE	MANDAR	MANDAR WADKE,	mandar.wadke@gmail.com	|* 1 REG-Adult JPY 2300.00 *||* 0 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+DHANDIA	AAKASH	AAKASH DHANDIA, RUPAL DHANDIA, CHHAYA DHANDIA, BHAVYA DHANDIA, MUSKAN DHANDIA,	aakash_dhandia@hotmail.com	|* 3 REG-Adult JPY 2300.00 *||* 2 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Ghatage	Shailendra	Shailendra Ghatage, Susmita Ghatage, Akhilesh Ghatage,	shzipsu@yahoo.com	|* 3 REG-Adult JPY 2300.00 *||* 0 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Saggu	Bhupendar	Bhupendar Saggu, Manisha Saggu, Samrudhi Naiku, Arnav Naiku, Samara Saggu,	bhupendar.saggu@gmail.com	|* 3 REG-Adult JPY 2300.00 *||* 2 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Meher	Varsha	Varsha Meher, Sameer Meher, Nabhij Meher,	Varsha.meher@gmail.com	|* 2 REG-Adult JPY 2300.00 *||* 1 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Kumar	Manoj	Manoj Kumar,	m_bardiya@hotmail.com	|* 1 REG-Adult JPY 2300.00 *||* 0 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Manoj Kumar	Paresh	Manoj Kumar,	m_bardiya@hotmail.com	|* 1 REG-Adult JPY 2300.00 *||* 0 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Dhake	Digambar	Digambar Dhake, Leena Dhake, Urvi  Dhake,	dd4restthings@gmail.com	|* 2 REG-Adult JPY 2300.00 *||* 1 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Chaudhari	Anjali	Anjali Chaudhari , Ashutosh  Chaudhari , Kimaya  Chaudhari , Rushil  Chaudhari ,	anjalij4@gmail.com	|* 2 REG-Adult JPY 2300.00 *||* 2 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Hogade	Amrut	Amrut Hogade, Ashwini Hogade, Aarya Hogade,	ashwini_agey@yahoo.co.in	|* 2 REG-Adult JPY 2300.00 *||* 1 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Nandy	Subarna	Subarna  Nandy , Kumar  Nandy ,	rimanandy@yahoo.com	|* 2 REG-Adult JPY 2300.00 *||* 0 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+By Manoj	Pari	Manoj Bardia,	m_bardiya@hotmail.com	|* 0 REG-Adult JPY 2300.00 *||* 1 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|
+Moudgil	Anurag	Anurag Moudgil,	anurag.moudgil@gmail.com	|* 1 REG-Adult JPY 2300.00 *||* 0 REG-Child ( 4-11 Yrs ) JPY 1200.00 *|

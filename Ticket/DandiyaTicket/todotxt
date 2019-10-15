@@ -1,0 +1,31 @@
+routine to convert attendee format to input format with 5 columns
+2 more columns will be added to input csv fie. First one is number of adults and then number of children
+Modify to create adult and child ticket....in different formats
+
+
+new input file will have foll columns
+id
+name
+attendees
+email
+attendeetype....will be for adult or child....e.g A,A,C,
+
+
+
+Go to Attendees sheet.
+Select the columns name, email, adult/child to a text file. without heading.
+Place this text file in the input folder.
+This file should be performerattendees.txt
+set config.properties.process = 1
+
+PerAttnConsolidated.txt will be created in  the input folder.
+
+
+goto genreg sheet
+copy the data in columns DEFGT  to a txt file....name the text file as genregattendees.txt and save in input folder
+hide other columns in before copying.  Copy only valid data.
+
+sponsor sheet
+copy the data in columns BCDEFG  to a txt file....name the text file as sponsorattendees.txt and save in input folder
+
+

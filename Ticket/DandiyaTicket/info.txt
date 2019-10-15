@@ -1,0 +1,13 @@
+
+
+
+Creating input file
+Copy 5 columns without heading and then export and tab delimeted csv file
+ - ID
+ - first name
+ - last name
+ - Attendees
+ - email
+ 
+ 
+For Dandiya

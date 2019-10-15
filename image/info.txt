@@ -1,0 +1,3 @@
+App: codereadr
+Users pkg :5
+Db name : Dandiya2018

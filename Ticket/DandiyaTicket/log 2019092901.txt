@@ -1,0 +1,1736 @@
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Poonam.mehta096@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1460
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Raj Sheth
+1460014012...1460..Poonam Sheth.. Raj Sheth..Poonam.mehta096@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Poonam.mehta096@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1461
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Smitha Smitha 
+1461014146...1461..Rekha Sharma..Smitha Smitha ..rekgin2730@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rekgin2730@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1461
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Jyotsna  Tahiliani
+146101424...1461..Rekha Sharma.. Jyotsna  Tahiliani..rekgin2730@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rekgin2730@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1461
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Pooja  Pooja
+1461014317...1461..Rekha Sharma.. Pooja  Pooja..rekgin2730@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rekgin2730@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1461
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Paritoshi  Paritoshi 
+1461014430...1461..Rekha Sharma.. Paritoshi  Paritoshi ..rekgin2730@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rekgin2730@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1462
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Amit Sachan
+1462014545...1462..Amit Sachan..Amit Sachan..amitsachan01@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....amitsachan01@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1462
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Tanisha Sachan
+1462014612...1462..Amit Sachan.. Tanisha Sachan..amitsachan01@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....amitsachan01@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1463
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Vishal Master
+1463014732...1463..Vishal Master..Vishal Master..Vishalnmaster@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Vishalnmaster@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1463
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Rikta Master
+1463014829...1463..Vishal Master.. Rikta Master..Vishalnmaster@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Vishalnmaster@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1463
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Vrishaan Master
+1463014922...1463..Vishal Master.. Vrishaan Master..Vishalnmaster@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Vishalnmaster@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1464
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sudnya Natu
+1464015017...1464..Sudnya Natu..Sudnya Natu..nsudnya@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....nsudnya@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1464
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Sumit Kittur
+1464015117...1464..Sudnya Natu.. Sumit Kittur..nsudnya@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....nsudnya@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1465
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Supriya  Khare
+1465015246...1465..Supriya Khare..Supriya  Khare..sup.khare@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sup.khare@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1465
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Avinash Khare
+1465015319...1465..Supriya Khare.. Avinash Khare..sup.khare@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sup.khare@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1465
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Riya Khare
+1465015444...1465..Supriya Khare.. Riya Khare..sup.khare@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....sup.khare@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1466
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Savani Shinde
+146601554...1466..Savani Shinde..Savani Shinde..Savanis@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Savanis@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1466
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Shailendra  Shinde
+1466015643...1466..Savani Shinde.. Shailendra  Shinde..Savanis@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Savanis@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1466
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Amita Natu
+1466015728...1466..Savani Shinde.. Amita Natu..Savanis@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Savanis@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1466
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Ishita Shinde
+1466015834...1466..Savani Shinde.. Ishita Shinde..Savanis@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Savanis@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1467
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Yesha Khanna
+1467015931...1467..Yesha Khanna..Yesha Khanna..Yeshahanda10@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Yeshahanda10@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1467
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Karan  Khanna
+1467016049...1467..Yesha Khanna.. Karan  Khanna..Yeshahanda10@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Yeshahanda10@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1467
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Mahika Khanna
+1467016113...1467..Yesha Khanna.. Mahika Khanna..Yeshahanda10@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Yeshahanda10@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1468
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Mansi Vora
+1468016214...1468..Mansi Vora..Mansi Vora..mansi12121987@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....mansi12121987@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1468
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Dharmang Vora
+146801635...1468..Mansi Vora.. Dharmang Vora..mansi12121987@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....mansi12121987@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1469
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Rashmi Dawalbhakta
+1469016447...1469..Rashmi Dawalbhakta..Rashmi Dawalbhakta..rashmi_db@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rashmi_db@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1469
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Yogesh Dawalbhakta
+1469016511...1469..Rashmi Dawalbhakta.. Yogesh Dawalbhakta..rashmi_db@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rashmi_db@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1469
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Sayuri  Dawalbhakta
+1469016642...1469..Rashmi Dawalbhakta.. Sayuri  Dawalbhakta..rashmi_db@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....rashmi_db@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1471
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Navneet Kumar
+1471016710...1471..Navneet Kumar..Navneet Kumar..prerana_nav@hotmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....prerana_nav@hotmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1471
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Prerana Lal
+1471016839...1471..Navneet Kumar.. Prerana Lal..prerana_nav@hotmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....prerana_nav@hotmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1471
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Nishka Lal
+1471016934...1471..Navneet Kumar.. Nishka Lal..prerana_nav@hotmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....prerana_nav@hotmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1472
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Astha Bhatnagar
+1472017029...1472..Astha Bhatnagar..Astha Bhatnagar..bhat_y@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....bhat_y@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1472
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Amulyaa Bhatnagar
+1472017119...1472..Astha Bhatnagar.. Amulyaa Bhatnagar..bhat_y@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....bhat_y@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1474
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Rohit Thotapalli 
+1474017211...1474..Rohit Thotapalli..Rohit Thotapalli ..trrohit47@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....trrohit47@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1474
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Aparna  Rajaram
+147401738...1474..Rohit Thotapalli.. Aparna  Rajaram..trrohit47@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....trrohit47@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1474
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Vedant Thotapalli 
+1474017412...1474..Rohit Thotapalli.. Vedant Thotapalli ..trrohit47@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....trrohit47@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1476
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Susmita  Panda 
+1476017525...1476..Susmita Panda..Susmita  Panda ..panda.susmita@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....panda.susmita@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1476
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Dwitipriya  Panda 
+147601762...1476..Susmita Panda.. Dwitipriya  Panda ..panda.susmita@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....panda.susmita@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1477
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Chetna Shrivastava 
+1477017747...1477..Chetna Shrivastava..Chetna Shrivastava ..chetna2000@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....chetna2000@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1477
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Prakash Shrivastava 
+1477017848...1477..Chetna Shrivastava.. Prakash Shrivastava ..chetna2000@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....chetna2000@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1477
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Neil Shrivastava 
+1477017934...1477..Chetna Shrivastava.. Neil Shrivastava ..chetna2000@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....chetna2000@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1477
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Yanit  Shrivastava 
+1477018029...1477..Chetna Shrivastava.. Yanit  Shrivastava ..chetna2000@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....chetna2000@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1481
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Manjari Pandey
+1481018126...1481..Manjari Pandey..Manjari Pandey..manjari.pandey@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....manjari.pandey@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1481
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Swasti  Shree
+1481018231...1481..Manjari Pandey.. Swasti  Shree..manjari.pandey@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....manjari.pandey@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1482
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Nivedita Kumar
+1482018318...1482..Nivedita Kumar..Nivedita Kumar..niveditashrm4@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....niveditashrm4@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1482
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Atharv Kumar
+1482018436...1482..Nivedita Kumar.. Atharv Kumar..niveditashrm4@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....niveditashrm4@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1483
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Aishwarya Adkar
+1483018518...1483..Aishwarya Adkar..Aishwarya Adkar..aaish0004@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....aaish0004@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1486
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Dipti Mhatre
+1486018648...1486..Dipti Mhatre..Dipti Mhatre..26.dipti@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....26.dipti@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1487
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Ankush Mahasaheb
+1487018727...1487..Ankush Mahasaheb..Ankush Mahasaheb..amahasaheb2027@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....amahasaheb2027@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1487
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Arti  Mahasaheb
+1487018847...1487..Ankush Mahasaheb.. Arti  Mahasaheb..amahasaheb2027@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....amahasaheb2027@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1488
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Santosh Varghese
+1488018913...1488..Santosh Varghese..Santosh Varghese..varghese.santosh@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....varghese.santosh@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1488
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Merlyn  Santosh
+1488019040...1488..Santosh Varghese.. Merlyn  Santosh..varghese.santosh@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....varghese.santosh@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1488
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Alaina  Santosh
+1488019122...1488..Santosh Varghese.. Alaina  Santosh..varghese.santosh@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....varghese.santosh@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1488
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Nathan Santosh
+1488019238...1488..Santosh Varghese.. Nathan Santosh..varghese.santosh@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....varghese.santosh@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1489
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Panna Bodupalli 
+148901933...1489..Panna Bodupalli..Panna Bodupalli ..Panna0902@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Panna0902@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1489
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Karishma Bodupalli 
+1489019436...1489..Panna Bodupalli.. Karishma Bodupalli ..Panna0902@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Panna0902@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1490
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Yatin  Joshi
+149001951...1490..Yatin Joshi..Yatin  Joshi..Joshiyat@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Joshiyat@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1490
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Nilakshi Joshi
+1490019631...1490..Yatin Joshi.. Nilakshi Joshi..Joshiyat@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Joshiyat@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1490
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Anaya Joshi
+1490019746...1490..Yatin Joshi.. Anaya Joshi..Joshiyat@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Joshiyat@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1492
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Gajanan  Dabir
+1492019820...1492..Gajanan Dabir..Gajanan  Dabir..Gajanan.dabir@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Gajanan.dabir@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1492
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Saee  Dabir
+1492019925...1492..Gajanan Dabir.. Saee  Dabir..Gajanan.dabir@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Gajanan.dabir@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1492
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Arnav  Dabir
+1492020016...1492..Gajanan Dabir.. Arnav  Dabir..Gajanan.dabir@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Gajanan.dabir@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1493
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Suwarna  Kolhatkar
+1493020136...1493..Suwarna Kolhatkar..Suwarna  Kolhatkar..damle.suwarna24@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....damle.suwarna24@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1494
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Choudhury Santoshi Prasad Mohanty
+1494020219...1494..Choudhury Santoshi Prasad Mohanty..Choudhury Santoshi Prasad Mohanty..santoshi.mohanty@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....santoshi.mohanty@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1494
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Diptimayee  Pattanayak
+1494020347...1494..Choudhury Santoshi Prasad Mohanty.. Diptimayee  Pattanayak..santoshi.mohanty@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....santoshi.mohanty@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1494
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Arun Kumar Rayguru
+1494020444...1494..Choudhury Santoshi Prasad Mohanty.. Arun Kumar Rayguru..santoshi.mohanty@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....santoshi.mohanty@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1494
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Sarmistha Sarangi
+1494020538...1494..Choudhury Santoshi Prasad Mohanty.. Sarmistha Sarangi..santoshi.mohanty@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....santoshi.mohanty@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1495
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Snehal Danane
+149502065...1495..Snehal Danane..Snehal Danane..snehal.danane25@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....snehal.danane25@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1496
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Arindam Dwivedi
+1496020727...1496..Arindam Dwivedi..Arindam Dwivedi..pindwi@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....pindwi@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1496
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Satakshi Dwivedi
+1496020848...1496..Arindam Dwivedi.. Satakshi Dwivedi..pindwi@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....pindwi@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1496
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Anushri Dwivedi
+149602095...1496..Arindam Dwivedi.. Anushri Dwivedi..pindwi@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....pindwi@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1497
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Shashank Acharya
+1497021030...1497..Shashank Acharya..Shashank Acharya..shashank_itmaster06@yahoo.co.jp
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....shashank_itmaster06@yahoo.co.jp
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1498
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Reshmita Tamboli
+1498021149...1498..Reshmita Tamboli..Reshmita Tamboli..reshmita.tamboli@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....reshmita.tamboli@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1499
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Sai Bhat
+1499021227...1499..Sai Bhat..Sai Bhat..Sai.bhalerao@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Sai.bhalerao@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1499
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Gaurav Bhat
+149902138...1499..Sai Bhat.. Gaurav Bhat..Sai.bhalerao@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Sai.bhalerao@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1499
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Agastya  Bhat
+1499021418...1499..Sai Bhat.. Agastya  Bhat..Sai.bhalerao@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Sai.bhalerao@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1500
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Anupama Nassa
+150002159...1500..Anupama Nassa..Anupama Nassa..Anupama.nassa@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Anupama.nassa@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1500
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Sameer  Nassa
+1500021648...1500..Anupama Nassa.. Sameer  Nassa..Anupama.nassa@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Anupama.nassa@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1500
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Myra  Nassa
+1500021722...1500..Anupama Nassa.. Myra  Nassa..Anupama.nassa@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Anupama.nassa@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1500
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Shikha  Sharma
+1500021840...1500..Anupama Nassa.. Shikha  Sharma..Anupama.nassa@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Anupama.nassa@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1500
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Shanti Sharma 
+1500021926...1500..Anupama Nassa.. Shanti Sharma ..Anupama.nassa@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Anupama.nassa@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1500
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Avni Sharma
+1500022017...1500..Anupama Nassa.. Avni Sharma..Anupama.nassa@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....Anupama.nassa@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1501
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Saket Singhal
+1501022137...1501..Saket Singhal..Saket Singhal..singhal1978@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....singhal1978@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1501
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Shalu Singhal
+1501022222...1501..Saket Singhal.. Shalu Singhal..singhal1978@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....singhal1978@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1501
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Lavansh Singhal
+1501022311...1501..Saket Singhal.. Lavansh Singhal..singhal1978@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....singhal1978@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1501
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Nikun Singhal
+1501022416...1501..Saket Singhal.. Nikun Singhal..singhal1978@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....singhal1978@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1502
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Shashank Bijwe
+1502022522...1502..Shashank Bijwe..Shashank Bijwe..bijwe.shashank@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....bijwe.shashank@gmail.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1503
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Amrut Hogade
+1503022617...1503..Amrut Hogade..Amrut Hogade..hogadeamrit@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....hogadeamrit@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1503
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Ashwini Hogade
+1503022712...1503..Amrut Hogade.. Ashwini Hogade..hogadeamrit@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....hogadeamrit@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1503
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Aarya Hogade
+1503022827...1503..Amrut Hogade.. Aarya Hogade..hogadeamrit@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....hogadeamrit@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1504
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Shailendra  Ghatage
+1504022942...1504..Shailendra Ghatage..Shailendra  Ghatage..szips@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....szips@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1504
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Susmita Ghatage
+1504023042...1504..Shailendra Ghatage.. Susmita Ghatage..szips@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....szips@yahoo.com
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1504
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Akhilesh Ghatage
+1504023129...1504..Shailendra Ghatage.. Akhilesh Ghatage..szips@yahoo.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....szips@yahoo.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1505
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Shrikhanth  Durairaj 
+150502327...1505..Shrikhanth Durairaj..Shrikhanth  Durairaj ..shrikhanth.mu@gmail.com
+creatin qr code.....
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....shrikhanth.mu@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1505
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Sandhya  Bharathkumar 
+1505023319...1505..Shrikhanth Durairaj.. Sandhya  Bharathkumar ..shrikhanth.mu@gmail.com
+creatin qr code.....
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....shrikhanth.mu@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1505
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Dhruv  Shrikhanth 
+150502341...1505..Shrikhanth Durairaj.. Dhruv  Shrikhanth ..shrikhanth.mu@gmail.com
+creatin qr code.....
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....shrikhanth.mu@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1506
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Maruti Sharma
+1506023539...1506..Maruti Sharma..Maruti Sharma..marutisharma1990@gmail.com
+creatin qr code.....
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....marutisharma1990@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1506
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Jayesh Mehta
+1506023637...1506..Maruti Sharma.. Jayesh Mehta..marutisharma1990@gmail.com
+creatin qr code.....
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....marutisharma1990@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1506
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Anjali Mehta
+150602374...1506..Maruti Sharma.. Anjali Mehta..marutisharma1990@gmail.com
+creatin qr code.....
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....marutisharma1990@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1506
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Mohit Singh
+1506023813...1506..Maruti Sharma.. Mohit Singh..marutisharma1990@gmail.com
+creatin qr code.....
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....marutisharma1990@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1507
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Rajat Dayal
+150702391...1507..Rajat Dayal..Rajat Dayal..marutisharma1990@gmail.com
+creatin qr code.....
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....marutisharma1990@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1507
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Annapurna Dayal
+1507024041...1507..Rajat Dayal.. Annapurna Dayal..marutisharma1990@gmail.com
+creatin qr code.....
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....marutisharma1990@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1507
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Salma Shekh
+1507024124...1507..Rajat Dayal.. Salma Shekh..marutisharma1990@gmail.com
+creatin qr code.....
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....marutisharma1990@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1507
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Deepika Yadav
+1507024227...1507..Rajat Dayal.. Deepika Yadav..marutisharma1990@gmail.com
+creatin qr code.....
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....marutisharma1990@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1508
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Charu  Maheshwari 
+1508024345...1508..Charu Maheshwari..Charu  Maheshwari ..charumahe@gmail.com
+creatin qr code.....
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....charumahe@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1508
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Swara  Bhaiya 
+1508024417...1508..Charu Maheshwari.. Swara  Bhaiya ..charumahe@gmail.com
+creatin qr code.....
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....charumahe@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1509
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Poonam Kadam
+150902459...1509..Poonam Kadam..Poonam Kadam..pookadam21@gmail.com
+creatin qr code.....
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....pookadam21@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1509
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Shreya  Tyagi
+1509024644...1509..Poonam Kadam.. Shreya  Tyagi..pookadam21@gmail.com
+creatin qr code.....
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....pookadam21@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1509
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Prachi Naik
+1509024712...1509..Poonam Kadam.. Prachi Naik..pookadam21@gmail.com
+creatin qr code.....
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....pookadam21@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote hostStart user --------------------------------------------------------------------------------------
+Reading user data ......1510
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Suhani Kudwa
+1510024850...1510..Suhani Kudwa..Suhani Kudwa..suhani.kudwa@gmail.com
+creatin qr code.....
+
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....suhani.kudwa@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1510
+Start attendee -------------------------------------------------------------------------
+working on attendee data ...... Harsh Kudwa
+1510024926...1510..Suhani Kudwa.. Harsh Kudwa..suhani.kudwa@gmail.com
+creatin qr code.....
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....suhani.kudwa@gmail.com
+javax.mail.MessagingException: Can't send command to SMTP host;
+  nested exception is:
+	java.net.SocketException: Connection closed by remote host
+Start user --------------------------------------------------------------------------------------
+Reading user data ......1511
+Start attendee -------------------------------------------------------------------------
+working on attendee data ......Varada Kulkarni
+1511025040...1511..Varada Kulkarni..Varada Kulkarni..varada_k@yahoo.com
+creatin qr code.....
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1717)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1704)
+	at com.sun.mail.smtp.SMTPTransport.close(SMTPTransport.java:821)
+	at javax.mail.Transport.send0(Transport.java:193)
+	at javax.mail.Transport.send(Transport.java:120)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:112)
+	at EmailUtil.sendAttachmentEmail(EmailUtil.java:126)
+	at SSLEmail.send(SSLEmail.java:86)
+	at ticket.dandiyaCreateTicket(ticket.java:257)
+	at ticket.main(ticket.java:71)
+Caused by: java.net.SocketException: Connection closed by remote host
+	at sun.security.ssl.SSLSocketImpl.checkWrite(SSLSocketImpl.java:1565)
+	at sun.security.ssl.AppOutputStream.write(AppOutputStream.java:71)
+	at com.sun.mail.util.TraceOutputStream.write(TraceOutputStream.java:110)
+	at java.io.BufferedOutputStream.flushBuffer(BufferedOutputStream.java:82)
+	at java.io.BufferedOutputStream.flush(BufferedOutputStream.java:140)
+	at com.sun.mail.smtp.SMTPTransport.sendCommand(SMTPTransport.java:1715)
+	... 9 more
+Readng image template.....C:\Data\Ticketdata\input\image\\tickettemplate.png
+Writing qrcode on ticket
+Writing name on ticket
+Setting connection to SMTP.....
+setting email data.....
+sedning email.....varada_k@yahoo.com
