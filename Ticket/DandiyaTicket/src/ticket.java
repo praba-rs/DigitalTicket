@@ -24,8 +24,7 @@ import com.google.zxing.BarcodeFormat;
 import com.google.zxing.MultiFormatWriter;
 import com.google.zxing.WriterException;
 import com.google.zxing.client.j2se.MatrixToImageWriter;
-import com.google.zxing.common.ByteMatrix;
-
+import com.google.zxing.common.BitMatrix;
 
 
 public class ticket {
@@ -552,10 +551,11 @@ public class ticket {
 		return ticketFile;
 	}
 
+	@SuppressWarnings("deprecation")
 	public static void createQRCode(String qrCodeData, String filePath, String charset, Map<?, ?> hintMap,
 			int qrCodeheight, int qrCodewidth) throws WriterException, IOException {
 		System.out.println("creatin qr code.....");
-		ByteMatrix matrix = new MultiFormatWriter().encode(new String(qrCodeData.getBytes(charset), charset),
+		BitMatrix matrix = new MultiFormatWriter().encode(new String(qrCodeData.getBytes(charset), charset),
 				BarcodeFormat.QR_CODE, qrCodewidth, qrCodeheight);
 		MatrixToImageWriter.writeToFile(matrix, filePath.substring(filePath.lastIndexOf('.') + 1), new File(filePath));
 	}
