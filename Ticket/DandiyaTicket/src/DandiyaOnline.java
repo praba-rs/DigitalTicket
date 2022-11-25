@@ -22,7 +22,7 @@ public class DandiyaOnline {
 			
 			id = datavalue[0];
 			email = datavalue[4];
-			String allNames[] = datavalue[3].split(";");
+			String allNames[] = datavalue[3].trim().split(";");
 			for (String name: allNames) {  
 				if (name != "")
 				writer.write(

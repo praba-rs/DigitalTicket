@@ -10,8 +10,10 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
+import java.util.Arrays;
 import java.util.Date;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
 import java.util.Properties;
 
@@ -28,8 +30,8 @@ import com.google.zxing.common.BitMatrix;
 
 
 public class ticket {
-
-	private static String basepath = "C:\\Data\\Ticketdata\\";
+	//private static String basepath = "C:\\Data\\Ticketdata\\";
+	private static String basepath = "C:\\Users\\praba\\Documents\\GitHub\\DigitalTicket\\Ticket\\DandiyaTicket\\";
 	private static String inputpath = basepath + "input\\";
 	private static String attendeesinputpath = basepath + "input\\attendees\\";
 	private static String imageinputpath = basepath + "input\\image\\";
@@ -43,6 +45,9 @@ public class ticket {
 
 		Config cfg = new Config(basepath);
 		String property = cfg.getProperty("process");
+		
+		property = "30";
+		
 		System.out.println("Start....." + property + "....");
 		if (property.trim().equals("1")) {
 			createperformerattendeedata();
@@ -78,13 +83,24 @@ public class ticket {
 			CreatePosters();
 		} // crea
 
-
+		if (property.trim().equals("30")) {
+			SendEmailOnly();
+		} 
 
 		System.out.println("End....." + getDateTime());
 
 	}
 
+	public static void SendEmailOnly() throws IOException {
+	//	final String emailids = "shyamdghetiya212@gmail.com,purvisheth1990@gmail.com,shzipsu@yahoo.com,manasirnaik@yahoo.co.in,juileejsh86@gmail.com,sailajamadha@gmail.com,Vrushali.gade2010@gmail.com,tashraj2007@gmail.com,avantikavenkta@gmail.com,snehaljoshi177@gmail.com,shikhasharmaavni@gmail.com,ankitapurohit8918@gmail.com,Shilpagoody@gmail.com,jignatanna12@gmail.com,srtokyo2020@gmail.com,pnagori@gmail.com,Rachu19802050@yahoo.co.uk,khushay@gmail.com,Sarika.pinky84@gmail.com,my2702@gmail.com,yogesh.Jagtap31@gmail.com,jitendra.gujarathi@gmail.com,nidhijain267@gmail.com,Pgkt88@gmail.com,Anchalpurwar@yahoo.com,arshruti.lahoti@gmail.com,dishajuriani@gmail.com,Monica.pharande13@gmail.com,Krupachotalia0@gmail.com,jhaverideepa@icloud.com,anutanna18@gmail.com,Ktmistry321@gmail.com,manishruchi@gmail.com,Minal.pingle1712@gmail.com,vandana.dei@gmail.com,ketapatel19@gmail.com,saditya86@gmail.com,ranjeetparashar05@gmail.com,amideep@hotmail.com,tgvini1982@yahoo.co.in,abhimanyukashyap02@gmail.com,yogesh.jagtap31@gmail.com,Samadhani3010@gmail.com,punitshah84@yahoo.in,marutisharma1990@gmail.com,Sachin.sonje49@gmail.com,pratibha.bharti@yahoo.co.in,nirav.thade@gmail.com,gundechapreeti@gmail.com,manisha.kumar.jp@gmail.com,adubhagwat@gmail.com,its.devikiran@gmail.com,amitkumartarte@gmail.com,ashrahulbapat@gmail.com,varsha_parmar_india@yahoo.co.in,Pritpatel2913@gmail.com,avinash.avi4u13@gmail.com,sonalshikha17@gmail.com,pulkithello89@gmail.com,mandarin7th@gmail.com,Poojartiwari@gmail.com,Kamble.sagar@gmail.com,Jainsahil306@gmail.com,minal_jogalekar@yahoo.co.in,khwaishsrimal@gmail.com,babbister@gmail.com,mewanimuskaan77@gmail.com,Sachin3107020@gmail.com,alkalodha2012@gmail.com,Shikha.rajput@gmail.com,Sandhya.amit@gmail.com,shinobu.umemoto25@gmail.com,gajananpatil3@gmail.com,sawaneshalaka@gmail.com,sandeep.gundap@gmail.com,rupaajoshi@gmail.com,divya.51kapadia@gmail.com,gokhalepritesh@gmail.com,rahul.shende3@gmail.com,Himaniv@gmail.com,shwetal.dr@gmail.com,er.patilmayuri@gmail.com,satpute78@hotmail.com,Anupama.nassa@gmail.com,saritapratihast@gmail.com,rmsangalge@gmail.com,Vrushali.rothe@yahoo.com,Uppercrust14@gmail.com,26.dipti@gmail.com,sachrupi@gmail.com,i.maya.uikey@gmail.com,pradnya29@gmail.com,Sai.bhalerao@gmail.com,Manasi.deodhar@gmail.com,mandar.wadke@gmail.com,anjalikul101@gmail.com,mini.eceng28@gmail.com,mohitsingherp@gmail.com,vikuljmk@gmail.com,rajivkumarmahajan@gmail.com,veenaramchandani1975@gmail.com,chetan.ghodasara91@gmail.com,kshitijaps@gmail.com,pallavrajjp@gmail.com,aparnag9@yahoo.co.in,sup.khare@gmail.com,raichura.lakshita412@outlook.com,sellamanohari@gmail.com,mihir2402@gmail.com,Anchalmails@gmail.com,prsonar@gmail.com,sachin.thakkar89@gmail.com,Gayatri11dhotre@gmail.com,Parasbali75@gmail.com,manjubomnale@gmail.com,amitaskulkarni@gmail.com,nitin.chaudhariin@gmail.com,shivbhuti@gmail.com,deepti.patil9@gmail.com,anil007jadhav@gmail.com,bpnmistry@gmail.com,purushottam.kshirsagar@gmail.com,Vaishulhas@gmail.com,chirania.ruchi@gmail.com,Poojashlok1@gmail.com,adhyapak.smadhura@gmail.com,mnmehtre.84@gmail.com,wiitname@gmail.com,mminakshi42@gmail.com,Paranjpe.neha@gmail.com,paranjpe.neha@gmail.com,Rupalimetkarchavan@gmail.com,manjari.pandey@gmail.com,yogita.khondge@gmail.com,shilpavyapari@gmail.com,tanaya8patil@gmail.com,joshinaveenh411@gmail.com,ashishcdeo@gmail.com,Nancy_star_2007@yahoo.co.in,saiphanikrishna007@gmail.com,Dushyant.vig1989@gmail.com,Tavargeri.safala@gmail.com,Yeshahanda85@gmail.com,shahista.photos3@gmail.com,itsaman141@gmail.com,oien.bme@gmail.com,Kenashah1494@gmail.com,haripatel9@gmail.com,prajkul@gmail.com,aashaa.jain@gmail.com,kamini3886@gmail.com,Raj17varma@gmail.com,veenatharsis@gmail.com,Nikitaholkar36@gmail.com,praba_rs@yahoo.com";
+		final String emailids = "praba_rs@yahoo.com,praba_rs@yahoo.com";
+		//final String emailids = "hemant.visal@gmail.com,desainaren@gmail.com,mcapramodm@gmail.com,praba_rs@yahoo.com,nataraj_dhakshina@yahoo.com,sushilkumargoel@gmail.com,attarde.sunil@gmail.com";
+		List<String> emailList = Arrays.asList(emailids.split(","));
+		Session session = getEmailSession();
+		SSLEmail se = new SSLEmail();
+		emailList.forEach((id)->se.send(session,id ));
 
+	}
 	
 	public static void createperformerattendeedata() throws IOException {
 
@@ -199,17 +215,19 @@ public class ticket {
 	}
 
 	public static Session getEmailSession() {
-		final String fromEmail = "info@ojimaindians.com"; // requires valid gmail id
+		System.out.println("getEmailSession.....");
+		
+		final String fromEmail = "registration@ojimaindians.com"; // requires valid gmail id
+		//final String fromEmail = "info@ojimaindians.com"; // requires valid gmail id
 		final String password = "getready61"; // correct password for gmail id
 		// final String toEmail = "praba_rs@yahoo.com"; // can be any email id
 
-		// System.out.println("SSLEmail Start");
 		Properties props = new Properties();
-		props.put("mail.smtp.host", "smtpout.europe.secureserver.net"); // SMTP Host
+		props.put("mail.smtp.host", "smtpout.secureserver.net"); // SMTP Host
 		props.put("mail.smtp.socketFactory.port", "465"); // SSL Port
-		props.put("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory"); // SSL Factory Class
+		//props.put("mail.smtp.socketFactory.class", "javax.net.ssl.SSLSocketFactory"); // SSL Factory Class
 		props.put("mail.smtp.auth", "true"); // Enabling SMTP Authentication
-		props.put("mail.smtp.port", "465"); // SMTP Port
+		//props.put("mail.smtp.port", "80"); // SMTP Port
 		// props.put("mail.smtp.starttls.enable","false");
 
 		// props.put("mail.smtp.starttls.enable", "true");
@@ -430,10 +448,10 @@ public class ticket {
 	public static String imageProcess(String parentid, String childid, String name, String png) throws IOException {
 		BufferedImage img = null;
 		File f = null;
-		System.out.println("Readng image template....." + imageinputpath + "\\tickettemplate.png");
+		System.out.println("Readng image template....." + imageinputpath + "tickettemplate.png");
 		// Read image
 		try {
-			f = new File(imageinputpath + "\\tickettemplate.png");
+			f = new File(imageinputpath + "tickettemplate.png");
 			img = ImageIO.read(f);
 		} catch (IOException e) {
 			System.out.println(e);
@@ -451,16 +469,18 @@ public class ticket {
 		// Set font for the watermark text
 
 		BufferedImage qr = ImageIO.read(new File(png));
-		graphics.drawImage(qr, 443, 475, null);
+		graphics.drawImage(qr, 443, 450, null);
 		// graphics.drawImage(qr, 490, 533, null);
 		System.out.println("Writing qrcode on ticket");
 
 		graphics.setFont(new Font("Arial", Font.PLAIN, 30));
-		graphics.setColor(Color.blue);
+		graphics.setColor(Color.yellow);
+
+		graphics.drawString(parentid, 39, 500);
 
 		// Add the watermark text at (width/5, height/3)
 		// location
-		graphics.drawString(name, 39, 590);
+		graphics.drawString(name, 39, 530);
 		System.out.println("Writing name on ticket");
 		String filename = name;
 		// releases any system resources that it is using
