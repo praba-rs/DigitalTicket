@@ -15,6 +15,7 @@ import javax.mail.internet.InternetAddress;
 import javax.mail.internet.MimeBodyPart;
 import javax.mail.internet.MimeMessage;
 import javax.mail.internet.MimeMultipart;
+import java.util.ArrayList;
 
 public class EmailUtil {
 
@@ -30,18 +31,18 @@ public class EmailUtil {
 		try {
 			MimeMessage msg = new MimeMessage(session);
 			// set message headers
-			msg.addHeader("Content-type", "text/HTML; charset=UTF-8");
+			msg.addHeader("Content-type", "text/html");
 			msg.addHeader("format", "flowed");
 			msg.addHeader("Content-Transfer-Encoding", "8bit");
 
 			//msg.setFrom(new InternetAddress("info@ojimaindians.com", "OjimaIndians Ticket"));
 			//msg.setReplyTo(InternetAddress.parse("info@ojimaindians.com", false));
-			msg.setFrom(new InternetAddress("registration@ojimaindians.com", "OjimaIndians Ticket"));
-			msg.setReplyTo(InternetAddress.parse("registration@ojimaindians.com", false));
+			msg.setFrom(new InternetAddress("info@ojimaindians.com", "OjimaIndians Ticket"));
+			msg.setReplyTo(InternetAddress.parse("info@ojimaindians.com", false));
 			
 			msg.setSubject(subject, "UTF-8");
 
-			msg.setContent(body, "text/HTML; charset=UTF-8");
+			msg.setContent(body, "text/html");
 
 			msg.setSentDate(new Date());
 
@@ -50,6 +51,8 @@ public class EmailUtil {
 			System.out.println(toEmail);
 
 			Transport.send(msg);
+			System.out.println(toEmail);
+			System.out.println("33333333333333333333333");
 
 			// System.out.println("EMail Sent Successfully!!");
 		} catch (Exception e) {
@@ -69,14 +72,14 @@ public class EmailUtil {
 			String[] digitalTickets) {
 		try {
 			MimeMessage msg = new MimeMessage(session);
-			msg.addHeader("Content-type", "text/HTML; charset=UTF-8");
+			msg.addHeader("Content-type", "text/html");
 			msg.addHeader("format", "flowed");
 			msg.addHeader("Content-Transfer-Encoding", "8bit");
 
 			//msg.setFrom(new InternetAddress("info@ojimaindians.com", "OjimaIndians Ticket"));
 			//msg.setReplyTo(InternetAddress.parse("info@ojimaindians.com", false));
-			msg.setFrom(new InternetAddress("registration@ojimaindians.com", "OjimaIndians Ticket"));
-			msg.setReplyTo(InternetAddress.parse("registration@ojimaindians.com", false));
+			msg.setFrom(new InternetAddress("info@ojimaindians.com", "OjimaIndians Dandiya Ticket"));
+			msg.setReplyTo(InternetAddress.parse("info@ojimaindians.com", false));
 			
 			msg.setSubject(subject, "UTF-8");
 
@@ -88,7 +91,8 @@ public class EmailUtil {
 			BodyPart messageBodyPart = new MimeBodyPart();
 
 			// Fill the message
-			messageBodyPart.setText(body);
+			//messageBodyPart.setText(body);
+			messageBodyPart.setContent(body,"text/html");
 
 			// Create a multipart message for attachment
 			Multipart multipart = new MimeMultipart();
@@ -110,12 +114,10 @@ public class EmailUtil {
 			}
 
 			// Send the complete message parts
-			msg.setContent(multipart, "text/html");
+			msg.setContent(multipart);
 
-			System.out.println("sedning email....." + toEmail);
+			System.out.println("sedning email...1." + toEmail);
 			// Send message
-			
-			
 
 			Transport.send(msg);
 			// System.out.println("EMail Sent Successfully with attachment!!");
@@ -126,6 +128,69 @@ public class EmailUtil {
 		}
 	}
 
+	public static void sendAttachmentEmail(Session session, String toEmail, String subject, String body,
+			ArrayList<String> digitalTickets) {
+		try {
+			MimeMessage msg = new MimeMessage(session);
+			msg.addHeader("Content-type", "text/html");
+			msg.addHeader("format", "flowed");
+			msg.addHeader("Content-Transfer-Encoding", "8bit");
+
+			//msg.setFrom(new InternetAddress("info@ojimaindians.com", "OjimaIndians Ticket"));
+			//msg.setReplyTo(InternetAddress.parse("info@ojimaindians.com", false));
+			msg.setFrom(new InternetAddress("info@ojimaindians.com", "OjimaIndians Dandiya Ticket"));
+			msg.setReplyTo(InternetAddress.parse("info@ojimaindians.com", false));
+			
+			msg.setSubject(subject, "UTF-8");
+
+			msg.setSentDate(new Date());
+
+			msg.setRecipients(Message.RecipientType.TO, InternetAddress.parse(toEmail, false));
+
+			// Create the message body part
+			BodyPart messageBodyPart = new MimeBodyPart();
+
+			// Fill the message
+			//messageBodyPart.setText(body);
+			messageBodyPart.setContent(body,"text/html");
+
+			// Create a multipart message for attachment
+			Multipart multipart = new MimeMultipart();
+
+			// Set text message part
+			multipart.addBodyPart(messageBodyPart);
+
+			// Second part is attachment
+			System.out.println("setting email data.....");
+			for (String s : digitalTickets) {
+				if (s.trim().length() >0 )
+				{
+			
+				messageBodyPart = new MimeBodyPart();
+
+				DataSource source = new FileDataSource(s);
+				messageBodyPart.setDataHandler(new DataHandler(source));
+				int random = (int) (Math.random() * 5000 + 1);
+				messageBodyPart.setFileName("ticket"+Integer.toString(random)+".png");
+				multipart.addBodyPart(messageBodyPart);
+				}
+
+			}
+
+			// Send the complete message parts
+			msg.setContent(multipart);
+
+			System.out.println("sedning email...1." + toEmail);
+			// Send message
+
+			Transport.send(msg);
+			// System.out.println("EMail Sent Successfully with attachment!!");
+		} catch (MessagingException e) {
+			e.printStackTrace();
+		} catch (UnsupportedEncodingException e) {
+			e.printStackTrace();
+		}
+	}
 	public static void sendAttachmentEmail(Session session, String toEmail, String subject, String body,
 			String singleticket) {
 		
