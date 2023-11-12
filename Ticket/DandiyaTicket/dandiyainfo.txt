@@ -1,3 +1,5 @@
+updated on 12-nov-2023
+
 open a new workbook
 Copy the columns A,D,E,F,G columns to the new sheet
 Columns are ID, last name, first name, names and email
@@ -8,17 +10,13 @@ Save the file in input\attendee folder
 tickettemplate.png should be available in input\image folder
 
 
-change the process number to 7 in config properties
-run the application
-
-This will create a file  dandiyaonlineOut.txt in input\attendee folder
-
 filename.txt should be available in \input folder
-name in filename.txt will be input file for process 11.
-This should be dandiyaonlineOut.txt
+name in filename.txt will be input file for process 13.
+This should be dandiyaonline.csv
 
-Then change the process number to 11 in configproperties
+Then change the process number to 13 in configproperties
 run the application.
-This process will send email. One email per ticket.
-Copy the ticket image \output\tickets folder
-Create a file for qrcodereadr in \output\codereadr
+This process will do the following
+1. send email. One email per family.
+2. Copy the ticket images \output\tickets folder
+3. Create a file for qrcodereadr in \output\codereadr
